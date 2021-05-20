@@ -20,6 +20,7 @@ public class JokenpoJava{
 				// 	Devido aos testes, a lógica ficou fácil.		
 				// 	As mãos praticamente viraram Poker, onde a maior mão vence!
 				// 	Leia o testBattery() para mais info.
+				//ass
 				
 					
 				Scanner scanner = new Scanner(System.in);
