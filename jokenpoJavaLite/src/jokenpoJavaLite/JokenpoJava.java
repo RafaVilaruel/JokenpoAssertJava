@@ -13,7 +13,7 @@ public class JokenpoJava{
 				//	The hands became Poker, where the higher hand wins!
 				//  Read testBattery() for more info.
 			
-				testBattery();
+				//testBattery(); Comentando os testes.
 				
 				// 	Testes Assert usados para criar o game. Teste primeiro, escreva dps!!
 				//	Todos foram escritos PRIMEIRO, antes de eu escrever 1 linha de código.
